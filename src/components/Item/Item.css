@@ -1,0 +1,8 @@
+.item {
+  width: 50px !important;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
